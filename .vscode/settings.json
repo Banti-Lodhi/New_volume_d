@@ -1,0 +1,7 @@
+{
+  "java.project.sourcePaths": [
+    "CoreJavaFile",
+    "BlockCore/Collection1"
+  ],
+  "java.debug.settings.onBuildFailureProceed": true
+}

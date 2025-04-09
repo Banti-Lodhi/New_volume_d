@@ -1,0 +1,126 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "B",
+      "request": "launch",
+      "mainClass": "B",
+      "projectName": "Advance Java_7fd8d439"
+    },
+    {
+      "type": "java",
+      "name": "keyword",
+      "request": "launch",
+      "mainClass": "keyword",
+      "projectName": "Advance Java_7fd8d439"
+    },
+    {
+      "type": "java",
+      "name": "Project",
+      "request": "launch",
+      "mainClass": "Project",
+      "projectName": "Advance Java_7fd8d439"
+    },
+    {
+      "type": "java",
+      "name": "textBlock",
+      "request": "launch",
+      "mainClass": "SystemJava.textBlock",
+      "projectName": "Advance Java_7fd8d439"
+    },
+    {
+      "type": "java",
+      "name": "second",
+      "request": "launch",
+      "mainClass": "SystemJava.second",
+      "projectName": "Advance Java_7fd8d439"
+    },
+    {
+      "type": "java",
+      "name": "asserts",
+      "request": "launch",
+      "mainClass": "SystemJava.asserts",
+      "projectName": "Advance Java_7fd8d439"
+    },
+    {
+      "type": "java",
+      "name": "A",
+      "request": "launch",
+      "mainClass": "SystemJava.A",
+      "projectName": "Advance Java_7fd8d439"
+    },
+    {
+      "type": "java",
+      "name": "dbms",
+      "request": "launch",
+      "mainClass": "dbms",
+      "projectName": "Advance Java_7fd8d439"
+    },
+    {
+      "type": "java",
+      "name": "InputSer",
+      "request": "launch",
+      "mainClass": "InputSer",
+      "projectName": "Advance Java_7fd8d439"
+    },
+    {
+      "type": "java",
+      "name": "IOSerilization",
+      "request": "launch",
+      "mainClass": "IOSerilization",
+      "projectName": "Advance Java_7fd8d439"
+    },
+    {
+      "type": "java",
+      "name": "heap",
+      "request": "launch",
+      "mainClass": "heap",
+      "projectName": "Advance Java_7fd8d439"
+    },
+    {
+      "type": "java",
+      "name": "Lecture6",
+      "request": "launch",
+      "mainClass": "Lecture6",
+      "projectName": "Advance Java_7fd8d439"
+    },
+    {
+      "type": "java",
+      "name": "BufferReader",
+      "request": "launch",
+      "mainClass": "BufferReader",
+      "projectName": "Advance Java_7fd8d439"
+    },
+    {
+      "type": "java",
+      "name": "array",
+      "request": "launch",
+      "mainClass": "array",
+      "projectName": "Advance Java_7fd8d439"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "CoreFile",
+      "request": "launch",
+      "mainClass": "CoreFile",
+      "projectName": "Advance Java_7fd8d439"
+    },
+    {
+      "type": "java",
+      "name": "FileReader",
+      "request": "launch",
+      "mainClass": "FileReader",
+      "projectName": "Advance Java_7fd8d439"
+    }
+  ]
+}
